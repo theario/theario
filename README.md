@@ -16,6 +16,16 @@
 
 ---
 
+# 💫 About Me:
+
+Hey! I'm **Ario**, a technology enthusiast passionate about computer networks, infrastructure, and Linux systems.
+
+I enjoy exploring how networks work, configuring network environments, working with Linux, and learning new technologies.
+
+My goal is to continuously improve my technical skills and build reliable, secure, and efficient network infrastructures.
+
+---
+
 ## 🌐 Socials
 
 <a href="https://discord.gg/wFGGMxqSMq">
@@ -36,24 +46,6 @@
 Network enthusiast | Linux user | Tech explorer
 ```
 
-Hey! I'm **Ario**, a technology enthusiast passionate about computer networks, infrastructure, and Linux systems.
-
-I enjoy exploring how networks work, configuring network environments, working with Linux, and learning new technologies.
-
-My goal is to continuously improve my technical skills and build reliable, secure, and efficient network infrastructures.
-
----
-
-## `./expertise.sh`
-
-| Field | Knowledge |
-|---|---|
-| 🌐 Networking | Network+ Concepts |
-| 🔵 Cisco | Cisco Networking |
-| 🐧 Linux | Linux Systems & Command Line |
-| 🖥️ Infrastructure | Network Infrastructure |
-| 🔧 Troubleshooting | Network Diagnostics |
-
 ---
 
 ## `tech-stack`
@@ -69,6 +61,18 @@ My goal is to continuously improve my technical skills and build reliable, secur
 <img src="https://img.shields.io/badge/Network+-E31837?style=for-the-badge&logo=comptia&logoColor=white" />
 
 </div>
+
+---
+
+## `./expertise.sh`
+
+| Field | Knowledge |
+|---|---|
+| 🌐 Networking | Network+ Concepts |
+| 🔵 Cisco | Cisco Networking |
+| 🐧 Linux | Linux Systems & Command Line |
+| 🖥️ Infrastructure | Network Infrastructure |
+| 🔧 Troubleshooting | Network Diagnostics |
 
 ---
 
