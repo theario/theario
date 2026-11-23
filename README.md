@@ -6,83 +6,73 @@
 <br/>
 
 <a href="https://sariserver.com">
-<img src="https://img.shields.io/badge/WEBSITE-sariserver.com-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/WEBSITE-sariserver.com-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
-<img src="https://img.shields.io/badge/NETWORKING-00BFFF?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/LINUX-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/FOCUS-NETWORKING-0A192F?style=for-the-badge&logo=cisco&logoColor=00BFFF" />
+<img src="https://img.shields.io/badge/OS-LINUX-0A192F?style=for-the-badge&logo=linux&logoColor=FCC624" />
 
 </div>
-
----
-
-## 👨‍💻 About Me
-
-Hey! I'm **Ario**, a technology enthusiast passionate about computer networks, infrastructure, and Linux systems.
-
-I work in the field of networking and enjoy exploring network technologies, configuring systems, and learning how modern infrastructures operate.
-
-- 🌐 Interested in Computer Networking
-- 🔵 Familiar with Cisco Networking
-- 📡 Knowledge of CompTIA Network+ concepts
-- 🐧 Experienced with Linux systems and command line
-- 💻 Always learning and improving my technical skills
-- 🚀 Building my knowledge in IT and Network Infrastructure
 
 ---
 
 ## 🌐 Socials
 
-<div align="left">
-
 <a href="https://discord.gg/wFGGMxqSMq">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/ariozameni/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
 </a>
-<a href="mailto:">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
 
 ---
 
-## 🖥️ Tech Stack
+## `whoami`
+
+```bash
+┌──(ario㉿network)-[~]
+└─$ whoami
+
+Network enthusiast | Linux user | Tech explorer
+```
+
+Hey! I'm **Ario**, a technology enthusiast passionate about computer networks, infrastructure, and Linux systems.
+
+I enjoy exploring how networks work, configuring network environments, working with Linux, and learning new technologies.
+
+My goal is to continuously improve my technical skills and build reliable, secure, and efficient network infrastructures.
+
+---
+
+## `./expertise.sh`
+
+| Field | Knowledge |
+|---|---|
+| 🌐 Networking | Network+ Concepts |
+| 🔵 Cisco | Cisco Networking |
+| 🐧 Linux | Linux Systems & Command Line |
+| 🖥️ Infrastructure | Network Infrastructure |
+| 🔧 Troubleshooting | Network Diagnostics |
+
+---
+
+## `tech-stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,windows,powershell,python" />
+<img src="https://skillicons.dev/icons?i=linux,bash,ubuntu,debian,windows,powershell" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Network%2B-E31837?style=for-the-badge&logo=comptia&logoColor=white" />
 <img src="https://img.shields.io/badge/Networking-00BFFF?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Network+-E31837?style=for-the-badge&logo=comptia&logoColor=white" />
 
 </div>
 
 ---
 
-## 📡 Networking & Infrastructure
-
-```bash
-┌──(ario㉿network)-[~]
-└─$ cat skills.txt
-
-[+] Network Fundamentals
-[+] CompTIA Network+
-[+] Cisco Networking
-[+] Linux Administration
-[+] Linux Command Line
-[+] Network Troubleshooting
-[+] Network Infrastructure
-```
-
----
-
-## 📊 GitHub Stats
+## `github-stats`
 
 <div align="center">
 
@@ -98,17 +88,23 @@ I work in the field of networking and enjoy exploring network technologies, conf
 
 ---
 
-## 🌍 Find Me Online
+## `connect.sh`
 
 <div align="center">
 
+Interested in networking, Linux, or technology?
+
+Feel free to connect with me.
+
+<br/>
+
 <a href="https://sariserver.com">
-<img src="https://img.shields.io/badge/Visit%20My%20Website-sariserver.com-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Personal%20Website-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <br/><br/>
 
-**Networking • Linux • Infrastructure • Technology**
+**Website:** [sariserver.com](https://sariserver.com)
 
 <br/>
 
